@@ -1,0 +1,34 @@
+{
+  "bienvenida": "¡Hola! 👋 Bienvenido/a a *Tu Negocio*.\n\nElige una opción escribiendo el número:\n\n1️⃣ Horarios de atención\n2️⃣ Precios y servicios\n3️⃣ Ubicación\n4️⃣ Hablar con un humano\n\nTambién puedes escribirme directamente tu duda 🙂",
+
+  "menu": {
+    "1": "🕒 Nuestro horario de atención es:\nLunes a Viernes: 9:00 - 18:00\nSábado: 9:00 - 13:00\nDomingo: Cerrado",
+    "2": "💰 Estos son nuestros servicios y precios:\n\n- Servicio A: $XX.XXX\n- Servicio B: $XX.XXX\n- Servicio C: $XX.XXX\n\n¿Quieres más detalles de alguno?",
+    "3": "📍 Nos encontramos en:\n[Tu dirección aquí]\n\nAquí puedes ver el mapa: [link de Google Maps]",
+    "4": "🙋 En un momento un miembro de nuestro equipo te va a contactar. ¡Gracias por tu paciencia!"
+  },
+
+  "palabrasClave": {
+    "horario": "1",
+    "hora": "1",
+    "abren": "1",
+    "cierran": "1",
+    "precio": "2",
+    "precios": "2",
+    "valor": "2",
+    "cuanto cuesta": "2",
+    "cuánto cuesta": "2",
+    "ubicacion": "3",
+    "ubicación": "3",
+    "direccion": "3",
+    "dirección": "3",
+    "donde estan": "3",
+    "dónde están": "3",
+    "humano": "4",
+    "persona": "4",
+    "asesor": "4",
+    "ayuda": "4"
+  },
+
+  "noEntendido": "No logré entender tu mensaje 🤔\n\nEscribe *menu* para ver las opciones disponibles, o cuéntame directamente qué necesitas."
+}
